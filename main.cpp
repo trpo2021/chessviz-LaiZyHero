@@ -129,5 +129,5 @@ int main()
 	item[62] = 'N';
 	item[63] = 'R';
 	Chess(item);
-    rerurn 0;
+    return 0;
 }
