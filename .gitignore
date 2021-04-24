@@ -1,3 +1,2 @@
-*.o
-*.exe
-Makefile~ 
+# Folder logs
+logs/
