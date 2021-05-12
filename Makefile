@@ -10,7 +10,4 @@ $(EXECUTABLE): $(OBJECTS)
 	$(CC) $(LDFLAGS) $(OBJECTS) -o $@
 
 .cpp.o:
-    @echo Compiling
 	$(CC) $(CFLAGS) $< -o $@
-clean:
-    rm .f $(OBJECTS) $(EXECUTABLE)	
