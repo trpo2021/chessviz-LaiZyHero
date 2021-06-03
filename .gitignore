@@ -1,0 +1,8 @@
+#main.c
+.main.c.swp
+main.c~
+MakeFile~
+*.o
+main
+*.out
+*.exe
